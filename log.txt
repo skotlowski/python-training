@@ -1,0 +1,17 @@
+DEBUG:root:To jest wiadomosc debugowa
+INFO:root:DS
+WARNING:root:To jest warning
+DEBUG:root:To jest wiadomosc debugowa
+INFO:root:DS
+WARNING:root:To jest warning
+DEBUG:root:To jest wiadomosc debugowa
+DEBUG:root:To jest wiadomosc debugowa
+WARNING:root:To jest warning
+DEBUG:root:To jest wiadomosc debugowa
+WARNING:root:To jest warning
+DEBUG:root:To jest wiadomosc debugowa
+WARNING:root:To jest warning
+DEBUG:root:To jest wiadomosc debugowa
+WARNING:root:To jest warning
+DEBUG:root:To jest wiadomosc debugowa
+WARNING:root:To jest warning
